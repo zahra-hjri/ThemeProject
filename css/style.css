@@ -1,0 +1,26 @@
+
+div.themes > div{
+    width: 20px;
+    height: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+
+}
+
+.light{
+    background-color: white;
+    color: #000;
+}
+
+.dark{
+    background-color: rgb(31, 30, 30);
+    color: #fff;
+}
+.green{
+    background-color: rgb(76, 167, 106);
+    color: #000;
+}
+.yellow{
+    background-color: rgb(245 247 141);
+    color: #000;
+}
